@@ -1,1 +1,2 @@
 # Predicting Built-up Areas Using Satellite Images and Neural Networks (NN)
+Through this notebook, we will predict built-up areas as a proxy of urban growth using satellite images and Neural Networks. Our study area encompasses two intermediate cities ([Acarigua](https://en.wikipedia.org/wiki/Acarigua) and [Cagua](https://en.wikipedia.org/wiki/Cagua)) in [Venezuela](https://en.wikipedia.org/wiki/Venezuela). The prediccion will be carried out in 2018.
